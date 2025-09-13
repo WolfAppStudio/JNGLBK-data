@@ -1,0 +1,93 @@
+{
+  "id": 8,
+  "title": "Occupations",
+  "type": "photos",
+  "color": [
+      30.0,
+      50.0,
+      88.0
+  ],
+  "imageURL": "occupations",
+  "items": [
+      {
+          "name": "Teacher",
+          "fileName": "occupations-teacher.png"
+      },
+      {
+          "name": "Astronaut",
+          "fileName": "occupations-astronaut.png"
+      },
+      {
+          "name": "Barber",
+          "fileName": "occupations-barber.png"
+      },
+      {
+          "name": "Carpenter",
+          "fileName": "occupations-carpenter.png"
+      },
+      {
+          "name": "Chef",
+          "fileName": "occupations-chef.png"
+      },
+      {
+          "name": "Dentist",
+          "fileName": "occupations-dentist.png"
+      },
+      {
+          "name": "Doctor",
+          "fileName": "occupations-doctor.png"
+      },
+      {
+          "name": "Electrician",
+          "fileName": "occupations-electrician.png"
+      },
+      {
+          "name": "Engineer",
+          "fileName": "occupations-engineer.png"
+      },
+      {
+          "name": "Farmer",
+          "fileName": "occupations-farmer.png"
+      },
+      {
+          "name": "Firefighter",
+          "fileName": "occupations-firefighter.png"
+      },
+      {
+          "name": "Lawyer",
+          "fileName": "occupations-lawyer.png"
+      },
+      {
+          "name": "Nurse",
+          "fileName": "occupations-nurse.png"
+      },
+      {
+          "name": "Painter",
+          "fileName": "occupations-painter.png"
+      },
+      {
+          "name": "Pilot",
+          "fileName": "occupations-pilot.png"
+      },
+      {
+          "name": "Police",
+          "fileName": "occupations-police.png"
+      },
+      {
+          "name": "Politician",
+          "fileName": "occupations-politician.png"
+      },
+      {
+          "name": "Postman",
+          "fileName": "occupations-postman.png"
+      },
+      {
+          "name": "Scientist",
+          "fileName": "occupations-scientist.png"
+      },
+      {
+          "name": "Soldier",
+          "fileName": "occupations-soldier.png"
+      }
+  ]
+}

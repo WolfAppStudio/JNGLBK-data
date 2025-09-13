@@ -1,0 +1,85 @@
+{
+  "id": 7,
+  "title": "Vehicles",
+  "type": "photos",
+  "color": [
+      92.0,
+      21.0,
+      11.0
+  ],
+  "imageURL": "vehicles",
+  "items":  [
+      {
+          "name": "Crane",
+          "fileName": "vehicles-crane.png"
+      },
+      {
+          "name": "Air Balloon",
+          "fileName": "vehicles-air-balloon.png"
+      },
+      {
+          "name": "Airplane",
+          "fileName": "vehicles-airplane.png"
+      },
+      {
+          "name": "Ambulance",
+          "fileName": "vehicles-ambulance.png"
+      },
+      {
+          "name": "Auto",
+          "fileName": "vehicles-auto.png"
+      },
+      {
+          "name": "Bicycle",
+          "fileName": "vehicles-bicycle.png"
+      },
+      {
+          "name": "Bike",
+          "fileName": "vehicles-bike.png"
+      },
+      {
+          "name": "Boat",
+          "fileName": "vehicles-boat.png"
+      },
+      {
+          "name": "Bus",
+          "fileName": "vehicles-bus.png"
+      },
+      {
+          "name": "Car",
+          "fileName": "vehicles-car.png"
+      },
+      {
+          "name": "Helicopter",
+          "fileName": "vehicles-helicopter.png"
+      },
+      {
+          "name": "JCB",
+          "fileName": "vehicles-jcb.png"
+      },
+      {
+          "name": "Police Car",
+          "fileName": "vehicles-police-car.png"
+      },
+      {
+          "name": "School Bus",
+          "fileName": "vehicles-sbus.png"
+      },
+      {
+          "name": "Scooter",
+          "fileName": "vehicles-scooter.png"
+      },
+      {
+          "name": "Ship",
+          "fileName": "vehicles-ship.png"
+      },
+      {
+          "name": "Tractor",
+          "fileName": "vehicles-tractor.png"
+      },
+      {
+          "name": "Train",
+          "fileName": "vehicles-train.png"
+      }
+  ]
+}

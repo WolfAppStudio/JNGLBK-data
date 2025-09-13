@@ -1,0 +1,69 @@
+{
+  "id": 6,
+  "title": "Birds",
+  "type": "photoSounds",
+  "color": [
+      11.0,
+      32.0,
+      108.0
+  ],
+  "imageURL": "birds",
+  "items": [
+      {
+          "name": "Woodpecker",
+          "fileName": "birds-woodpeacker.png"
+      },
+      {
+          "name": "Crow",
+          "fileName": "birds-crow.png"
+      },
+      {
+          "name": "Duck",
+          "fileName": "birds-duck.png"
+      },
+      {
+          "name": "Eagle",
+          "fileName": "birds-eagle.png"
+      },
+      {
+          "name": "Falcon",
+          "fileName": "birds-falcon.png"
+      },
+      {
+          "name": "Flamingo",
+          "fileName": "birds-flamingo.png"
+      },
+      {
+          "name": "Hen",
+          "fileName": "birds-hen.png"
+      },
+      {
+          "name": "Heron",
+          "fileName": "birds-heron.png"
+      },
+      {
+          "name": "Honey Bee",
+          "fileName": "birds-honey-bee.png"
+      },
+      {
+          "name": "Owl",
+          "fileName": "birds-owl.png"
+      },
+      {
+          "name": "Parrot",
+          "fileName": "birds-parrot.png"
+      },
+      {
+          "name": "Pigeon",
+          "fileName": "birds-pigeon.png"
+      },
+      {
+          "name": "Sparrow",
+          "fileName": "birds-sparrow.png"
+      },
+      {
+          "name": "Swan",
+          "fileName": "birds-swan.png"
+      }
+  ]
+}

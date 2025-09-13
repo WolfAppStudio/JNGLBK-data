@@ -1,0 +1,699 @@
+[
+    {
+        "id": 0,
+        "title": "Alphabets",
+        "type": "alphabets",
+        "color": [
+            77.0,
+            169.0,
+            121.0
+        ],
+        "imageURL": "alphabet",
+        "items": [
+            {
+                "name": "Apple",
+                "fileName": "alphabet-apple.png"
+            },
+            {
+                "name": "Ball",
+                "fileName": "alphabet-ball.png"
+            },
+            {
+                "name": "Cat",
+                "fileName": "alphabet-cat.png"
+            },
+            {
+                "name": "Dog",
+                "fileName": "alphabet-dog.png"
+            },
+            {
+                "name": "Elephant",
+                "fileName": "alphabet-elephant.png"
+            },
+            {
+                "name": "Fish",
+                "fileName": "alphabet-fish.png"
+            },
+            {
+                "name": "Grapes",
+                "fileName": "alphabet-grapes.png"
+            },
+            {
+                "name": "Horse",
+                "fileName": "alphabet-horse.png"
+            },
+            {
+                "name": "Ice Cream",
+                "fileName": "alphabet-icecream.png"
+            },
+            {
+                "name": "Jug",
+                "fileName": "alphabet-jug.png"
+            },
+            {
+                "name": "Kite",
+                "fileName": "alphabet-kite.png"
+            },
+            {
+                "name": "Lion",
+                "fileName": "alphabet-lion.png"
+            },
+            {
+                "name": "Monkey",
+                "fileName": "alphabet-monkey.png"
+            },
+            {
+                "name": "Nest",
+                "fileName": "alphabet-nest.png"
+            },
+            {
+                "name": "Orange",
+                "fileName": "alphabet-orange.png"
+            },
+            {
+                "name": "Parrot",
+                "fileName": "alphabet-parrot.png"
+            },
+            {
+                "name": "Queen",
+                "fileName": "alphabet-queen.png"
+            },
+            {
+                "name": "Rose",
+                "fileName": "alphabet-rose.png"
+            },
+            {
+                "name": "Sun",
+                "fileName": "alphabet-sun.png"
+            },
+            {
+                "name": "Tiger",
+                "fileName": "alphabet-tiger.png"
+            },
+            {
+                "name": "Umbrella",
+                "fileName": "alphabet-umbrella.png"
+            },
+            {
+                "name": "Van",
+                "fileName": "alphabet-van.png"
+            },
+            {
+                "name": "Watch",
+                "fileName": "alphabet-watch.png"
+            },
+            {
+                "name": "Xmas Tree",
+                "fileName": "alphabet-x-mas-tree.png"
+            },
+            {
+                "name": "Yak",
+                "fileName": "alphabet-yak.png"
+            },
+            {
+                "name": "Zebra",
+                "fileName": "alphabet-zebra.png"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "title": "Numbers",
+        "type": "numbers",
+        "color": [
+            235.0,
+            77.0,
+            59.0
+        ],
+        "imageURL": "numbers",
+        "items": [
+            {
+                "name": "1 (One)",
+                "fileName": "numbers-1.png"
+            },
+            {
+                "name": "2 (Two)",
+                "fileName": "numbers-2.png"
+            },
+            {
+                "name": "3 (Three)",
+                "fileName": "numbers-3.png"
+            },
+            {
+                "name": "4 (Four)",
+                "fileName": "numbers-4.png"
+            },
+            {
+                "name": "5 (Five)",
+                "fileName": "numbers-5.png"
+            },
+            {
+                "name": "6 (Six)",
+                "fileName": "numbers-6.png"
+            },
+            {
+                "name": "7 (Seven)",
+                "fileName": "numbers-7.png"
+            },
+            {
+                "name": "8 (Eight)",
+                "fileName": "numbers-8.png"
+            },
+            {
+                "name": "9 (Nine)",
+                "fileName": "numbers-9.png"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Colors",
+        "type": "colors",
+        "color": [
+            128.0,
+            181.0,
+            67.0
+        ],
+        "imageURL": "colors",
+        "items": [
+            {
+                "name": "Red",
+                "fileName": "colors.png"
+            },
+            {
+                "name": "Blue",
+                "fileName": "colors.png"
+            },
+            {
+                "name": "Yellow",
+                "fileName": "colors.png"
+            },
+            {
+                "name": "Green",
+                "fileName": "colors.png"
+            },
+            {
+                "name": "Orange",
+                "fileName": "colors.png"
+            },
+            {
+                "name": "Purple",
+                "fileName": "colors.png"
+            },
+            {
+                "name": "Pink",
+                "fileName": "colors.png"
+            },
+            {
+                "name": "Brown",
+                "fileName": "colors.png"
+            },
+            {
+                "name": "Black",
+                "fileName": "colors.png"
+            },
+            {
+                "name": "White",
+                "fileName": "colors.png"
+            },
+            {
+                "name": "Gray",
+                "fileName": "colors.png"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Shapes",
+        "type": "photos",
+        "color": [
+            98.0,
+            167.0,
+            246.0
+        ],
+        "imageURL": "shapes",
+        "items": [
+            {
+                "name": "Circle",
+                "fileName": "shapes-circle.png"
+            },
+            {
+                "name": "Square",
+                "fileName": "shapes-square.png"
+            },
+            {
+                "name": "Triangle",
+                "fileName": "shapes-triangle.png"
+            },
+            {
+                "name": "Rectangle",
+                "fileName": "shapes-rectangle.png"
+            },
+            {
+                "name": "Oval",
+                "fileName": "shapes-oval.png"
+            },
+            {
+                "name": "Semicircle",
+                "fileName": "shapes-semicircle.png"
+            },
+            {
+                "name": "Pentagon",
+                "fileName": "shapes-pentagon.png"
+            },
+            {
+                "name": "Hexagon",
+                "fileName": "shapes-hexagon.png"
+            },
+            {
+                "name": "Diamond",
+                "fileName": "shapes-diamond.png"
+            },
+            {
+                "name": "Star",
+                "fileName": "shapes-star.png"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Body Parts",
+        "type": "photos",
+        "color": [
+            78.0,
+            107.0,
+            67.0
+        ],
+        "imageURL": "body",
+        "items": [
+            {
+                "name": "Head",
+                "fileName": "body-head.png"
+            },
+            {
+                "name": "Eyes",
+                "fileName": "body-eyes.png"
+            },
+            {
+                "name": "Ears",
+                "fileName": "body-ears.png"
+            },
+            {
+                "name": "Nose",
+                "fileName": "body-nose.png"
+            },
+            {
+                "name": "Lips",
+                "fileName": "body-lips.png"
+            },
+            {
+                "name": "Teeth",
+                "fileName": "body-teeth.png"
+            },
+            {
+                "name": "Tongue",
+                "fileName": "body-tongue.png"
+            },
+            {
+                "name": "Mouth",
+                "fileName": "body-mouth.png"
+            },
+            {
+                "name": "Arms",
+                "fileName": "body-arms.png"
+            },
+            {
+                "name": "Hands",
+                "fileName": "body-hands.png"
+            },
+            {
+                "name": "Legs",
+                "fileName": "body-legs.png"
+            },
+            {
+                "name": "Feet",
+                "fileName": "body-feet.png"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Animals",
+        "type": "photoSounds",
+        "color": [
+            218.0,
+            128.0,
+            48.0
+        ],
+        "imageURL": "animals",
+        "items":  [
+            {
+                "name": "Camel",
+                "fileName": "animals-camel.png"
+            },
+            {
+                "name": "Cow",
+                "fileName": "animals-cow.png"
+            },
+            {
+                "name": "Dog",
+                "fileName": "animals-dog.png"
+            },
+            {
+                "name": "Dolphin",
+                "fileName": "animals-dolphin.png"
+            },
+            {
+                "name": "Donkey",
+                "fileName": "animals-donkey.png"
+            },
+            {
+                "name": "Elephant",
+                "fileName": "animals-elephant.png"
+            },
+            {
+                "name": "Fox",
+                "fileName": "animals-fox.png"
+            },
+            {
+                "name": "Frog",
+                "fileName": "animals-frog.png"
+            },
+            {
+                "name": "Giraffe",
+                "fileName": "animals-giraffe.png"
+            },
+            {
+                "name": "Gorilla",
+                "fileName": "animals-gorilla.png"
+            },
+            {
+                "name": "Iguana",
+                "fileName": "animals-iguana.png"
+            },
+            {
+                "name": "Kangaroo",
+                "fileName": "animals-kangaroo.png"
+            },
+            {
+                "name": "Sheep",
+                "fileName": "animals-sheep.png"
+            },
+            {
+                "name": "Lion",
+                "fileName": "animals-lion.png"
+            },
+            {
+                "name": "Monkey",
+                "fileName": "animals-monkey.png"
+            },
+            {
+                "name": "Mouse",
+                "fileName": "animals-mouse.png"
+            },
+            {
+                "name": "Octopus",
+                "fileName": "animals-octopus.png"
+            },
+            {
+                "name": "Panda",
+                "fileName": "animals-panda.png"
+            },
+            {
+                "name": "Pig",
+                "fileName": "animals-pig.png"
+            },
+            {
+                "name": "Rabbit",
+                "fileName": "animals-rabbit.png"
+            },
+            {
+                "name": "Squirrel",
+                "fileName": "animals-squirrel.png"
+            },
+            {
+                "name": "Starfish",
+                "fileName": "animals-starfish.png"
+            },
+            {
+                "name": "Tiger",
+                "fileName": "animals-tiger.png"
+            },
+            {
+                "name": "Turtle",
+                "fileName": "animals-turtle.png"
+            },
+            {
+                "name": "Zebra",
+                "fileName": "animals-zebra.png"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Birds",
+        "type": "photoSounds",
+        "color": [
+            11.0,
+            32.0,
+            108.0
+        ],
+        "imageURL": "birds",
+        "items": [
+            {
+                "name": "Woodpecker",
+                "fileName": "birds-woodpeacker.png"
+            },
+            {
+                "name": "Crow",
+                "fileName": "birds-crow.png"
+            },
+            {
+                "name": "Duck",
+                "fileName": "birds-duck.png"
+            },
+            {
+                "name": "Eagle",
+                "fileName": "birds-eagle.png"
+            },
+            {
+                "name": "Falcon",
+                "fileName": "birds-falcon.png"
+            },
+            {
+                "name": "Flamingo",
+                "fileName": "birds-flamingo.png"
+            },
+            {
+                "name": "Hen",
+                "fileName": "birds-hen.png"
+            },
+            {
+                "name": "Heron",
+                "fileName": "birds-heron.png"
+            },
+            {
+                "name": "Honey Bee",
+                "fileName": "birds-honey-bee.png"
+            },
+            {
+                "name": "Owl",
+                "fileName": "birds-owl.png"
+            },
+            {
+                "name": "Parrot",
+                "fileName": "birds-parrot.png"
+            },
+            {
+                "name": "Pigeon",
+                "fileName": "birds-pigeon.png"
+            },
+            {
+                "name": "Sparrow",
+                "fileName": "birds-sparrow.png"
+            },
+            {
+                "name": "Swan",
+                "fileName": "birds-swan.png"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Vehicles",
+        "type": "photos",
+        "color": [
+            92.0,
+            21.0,
+            11.0
+        ],
+        "imageURL": "vehicles",
+        "items":  [
+            {
+                "name": "Crane",
+                "fileName": "vehicles-crane.png"
+            },
+            {
+                "name": "Air Balloon",
+                "fileName": "vehicles-air-balloon.png"
+            },
+            {
+                "name": "Airplane",
+                "fileName": "vehicles-airplane.png"
+            },
+            {
+                "name": "Ambulance",
+                "fileName": "vehicles-ambulance.png"
+            },
+            {
+                "name": "Auto",
+                "fileName": "vehicles-auto.png"
+            },
+            {
+                "name": "Bicycle",
+                "fileName": "vehicles-bicycle.png"
+            },
+            {
+                "name": "Bike",
+                "fileName": "vehicles-bike.png"
+            },
+            {
+                "name": "Boat",
+                "fileName": "vehicles-boat.png"
+            },
+            {
+                "name": "Bus",
+                "fileName": "vehicles-bus.png"
+            },
+            {
+                "name": "Car",
+                "fileName": "vehicles-car.png"
+            },
+            {
+                "name": "Helicopter",
+                "fileName": "vehicles-helicopter.png"
+            },
+            {
+                "name": "JCB",
+                "fileName": "vehicles-jcb.png"
+            },
+            {
+                "name": "Police Car",
+                "fileName": "vehicles-police-car.png"
+            },
+            {
+                "name": "School Bus",
+                "fileName": "vehicles-sbus.png"
+            },
+            {
+                "name": "Scooter",
+                "fileName": "vehicles-scooter.png"
+            },
+            {
+                "name": "Ship",
+                "fileName": "vehicles-ship.png"
+            },
+            {
+                "name": "Tractor",
+                "fileName": "vehicles-tractor.png"
+            },
+            {
+                "name": "Train",
+                "fileName": "vehicles-train.png"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Occupations",
+        "type": "photos",
+        "color": [
+            30.0,
+            50.0,
+            88.0
+        ],
+        "imageURL": "occupations",
+        "items": [
+            {
+                "name": "Teacher",
+                "fileName": "occupations-teacher.png"
+            },
+            {
+                "name": "Astronaut",
+                "fileName": "occupations-astronaut.png"
+            },
+            {
+                "name": "Barber",
+                "fileName": "occupations-barber.png"
+            },
+            {
+                "name": "Carpenter",
+                "fileName": "occupations-carpenter.png"
+            },
+            {
+                "name": "Chef",
+                "fileName": "occupations-chef.png"
+            },
+            {
+                "name": "Dentist",
+                "fileName": "occupations-dentist.png"
+            },
+            {
+                "name": "Doctor",
+                "fileName": "occupations-doctor.png"
+            },
+            {
+                "name": "Electrician",
+                "fileName": "occupations-electrician.png"
+            },
+            {
+                "name": "Engineer",
+                "fileName": "occupations-engineer.png"
+            },
+            {
+                "name": "Farmer",
+                "fileName": "occupations-farmer.png"
+            },
+            {
+                "name": "Firefighter",
+                "fileName": "occupations-firefighter.png"
+            },
+            {
+                "name": "Lawyer",
+                "fileName": "occupations-lawyer.png"
+            },
+            {
+                "name": "Nurse",
+                "fileName": "occupations-nurse.png"
+            },
+            {
+                "name": "Painter",
+                "fileName": "occupations-painter.png"
+            },
+            {
+                "name": "Pilot",
+                "fileName": "occupations-pilot.png"
+            },
+            {
+                "name": "Police",
+                "fileName": "occupations-police.png"
+            },
+            {
+                "name": "Politician",
+                "fileName": "occupations-politician.png"
+            },
+            {
+                "name": "Postman",
+                "fileName": "occupations-postman.png"
+            },
+            {
+                "name": "Scientist",
+                "fileName": "occupations-scientist.png"
+            },
+            {
+                "name": "Soldier",
+                "fileName": "occupations-soldier.png"
+            }
+        ]
+    }
+]

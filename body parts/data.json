@@ -1,0 +1,61 @@
+{
+  "id": 4,
+  "title": "Body Parts",
+  "type": "photos",
+  "color": [
+      78.0,
+      107.0,
+      67.0
+  ],
+  "imageURL": "body",
+  "items": [
+      {
+          "name": "Head",
+          "fileName": "body-head.png"
+      },
+      {
+          "name": "Eyes",
+          "fileName": "body-eyes.png"
+      },
+      {
+          "name": "Ears",
+          "fileName": "body-ears.png"
+      },
+      {
+          "name": "Nose",
+          "fileName": "body-nose.png"
+      },
+      {
+          "name": "Lips",
+          "fileName": "body-lips.png"
+      },
+      {
+          "name": "Teeth",
+          "fileName": "body-teeth.png"
+      },
+      {
+          "name": "Tongue",
+          "fileName": "body-tongue.png"
+      },
+      {
+          "name": "Mouth",
+          "fileName": "body-mouth.png"
+      },
+      {
+          "name": "Arms",
+          "fileName": "body-arms.png"
+      },
+      {
+          "name": "Hands",
+          "fileName": "body-hands.png"
+      },
+      {
+          "name": "Legs",
+          "fileName": "body-legs.png"
+      },
+      {
+          "name": "Feet",
+          "fileName": "body-feet.png"
+      }
+  ]
+}

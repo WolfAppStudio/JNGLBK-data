@@ -1,0 +1,53 @@
+{
+  "id": 3,
+  "title": "Shapes",
+  "type": "photos",
+  "color": [
+      98.0,
+      167.0,
+      246.0
+  ],
+  "imageURL": "shapes",
+  "items": [
+      {
+          "name": "Circle",
+          "fileName": "shapes-circle.png"
+      },
+      {
+          "name": "Square",
+          "fileName": "shapes-square.png"
+      },
+      {
+          "name": "Triangle",
+          "fileName": "shapes-triangle.png"
+      },
+      {
+          "name": "Rectangle",
+          "fileName": "shapes-rectangle.png"
+      },
+      {
+          "name": "Oval",
+          "fileName": "shapes-oval.png"
+      },
+      {
+          "name": "Semicircle",
+          "fileName": "shapes-semicircle.png"
+      },
+      {
+          "name": "Pentagon",
+          "fileName": "shapes-pentagon.png"
+      },
+      {
+          "name": "Hexagon",
+          "fileName": "shapes-hexagon.png"
+      },
+      {
+          "name": "Diamond",
+          "fileName": "shapes-diamond.png"
+      },
+      {
+          "name": "Star",
+          "fileName": "shapes-star.png"
+      }
+  ]
+}

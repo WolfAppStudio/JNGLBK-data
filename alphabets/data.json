@@ -1,0 +1,117 @@
+{
+  "id": 0,
+  "title": "Alphabets",
+  "type": "alphabets",
+  "color": [
+      77.0,
+      169.0,
+      121.0
+  ],
+  "imageURL": "alphabet",
+  "items": [
+      {
+          "name": "Apple",
+          "fileName": "alphabet-apple.png"
+      },
+      {
+          "name": "Ball",
+          "fileName": "alphabet-ball.png"
+      },
+      {
+          "name": "Cat",
+          "fileName": "alphabet-cat.png"
+      },
+      {
+          "name": "Dog",
+          "fileName": "alphabet-dog.png"
+      },
+      {
+          "name": "Elephant",
+          "fileName": "alphabet-elephant.png"
+      },
+      {
+          "name": "Fish",
+          "fileName": "alphabet-fish.png"
+      },
+      {
+          "name": "Grapes",
+          "fileName": "alphabet-grapes.png"
+      },
+      {
+          "name": "Horse",
+          "fileName": "alphabet-horse.png"
+      },
+      {
+          "name": "Ice Cream",
+          "fileName": "alphabet-icecream.png"
+      },
+      {
+          "name": "Jug",
+          "fileName": "alphabet-jug.png"
+      },
+      {
+          "name": "Kite",
+          "fileName": "alphabet-kite.png"
+      },
+      {
+          "name": "Lion",
+          "fileName": "alphabet-lion.png"
+      },
+      {
+          "name": "Monkey",
+          "fileName": "alphabet-monkey.png"
+      },
+      {
+          "name": "Nest",
+          "fileName": "alphabet-nest.png"
+      },
+      {
+          "name": "Orange",
+          "fileName": "alphabet-orange.png"
+      },
+      {
+          "name": "Parrot",
+          "fileName": "alphabet-parrot.png"
+      },
+      {
+          "name": "Queen",
+          "fileName": "alphabet-queen.png"
+      },
+      {
+          "name": "Rose",
+          "fileName": "alphabet-rose.png"
+      },
+      {
+          "name": "Sun",
+          "fileName": "alphabet-sun.png"
+      },
+      {
+          "name": "Tiger",
+          "fileName": "alphabet-tiger.png"
+      },
+      {
+          "name": "Umbrella",
+          "fileName": "alphabet-umbrella.png"
+      },
+      {
+          "name": "Van",
+          "fileName": "alphabet-van.png"
+      },
+      {
+          "name": "Watch",
+          "fileName": "alphabet-watch.png"
+      },
+      {
+          "name": "Xmas Tree",
+          "fileName": "alphabet-x-mas-tree.png"
+      },
+      {
+          "name": "Yak",
+          "fileName": "alphabet-yak.png"
+      },
+      {
+          "name": "Zebra",
+          "fileName": "alphabet-zebra.png"
+      }
+  ]
+}

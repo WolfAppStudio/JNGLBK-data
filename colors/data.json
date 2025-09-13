@@ -1,0 +1,57 @@
+{
+  "id": 2,
+  "title": "Colors",
+  "type": "colors",
+  "color": [
+      128.0,
+      181.0,
+      67.0
+  ],
+  "imageURL": "colors",
+  "items": [
+      {
+          "name": "Red",
+          "fileName": "colors.png"
+      },
+      {
+          "name": "Blue",
+          "fileName": "colors.png"
+      },
+      {
+          "name": "Yellow",
+          "fileName": "colors.png"
+      },
+      {
+          "name": "Green",
+          "fileName": "colors.png"
+      },
+      {
+          "name": "Orange",
+          "fileName": "colors.png"
+      },
+      {
+          "name": "Purple",
+          "fileName": "colors.png"
+      },
+      {
+          "name": "Pink",
+          "fileName": "colors.png"
+      },
+      {
+          "name": "Brown",
+          "fileName": "colors.png"
+      },
+      {
+          "name": "Black",
+          "fileName": "colors.png"
+      },
+      {
+          "name": "White",
+          "fileName": "colors.png"
+      },
+      {
+          "name": "Gray",
+          "fileName": "colors.png"
+      }
+  ]
+}
