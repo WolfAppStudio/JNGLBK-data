@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "name": {"en": "Red","hi": "लाल","gu": "લાલ"},
+    "media": {"image": "assets/images/colors/colors-red.png"},
+    "audio": {"en": "assets/audio/en/red-en.mp3","hi": "assets/audio/hi/red-hi.mp3","gu": "assets/audio/gu/red-gu.mp3"},
+    "meta": {"category": "colors","order": 1},
+    "tags": ["color","learning","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Red color","hi":"लाल रंग","gu":"લાલ રંગ"}}
+  },
+  {
+    "id": "2",
+    "name": {"en": "Blue","hi": "नीला","gu": "લીલો"},
+    "media": {"image": "assets/images/colors/colors-blue.png"},
+    "audio": {"en": "assets/audio/en/blue-en.mp3","hi": "assets/audio/hi/blue-hi.mp3","gu": "assets/audio/gu/blue-gu.mp3"},
+    "meta": {"category": "colors","order": 2},
+    "tags": ["color","learning","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Blue color","hi":"नीला रंग","gu":"લીલો રંગ"}}
+  },
+  {
+    "id": "3",
+    "name": {"en": "Yellow","hi": "पीला","gu": "પીળો"},
+    "media": {"image": "assets/images/colors/colors-yellow.png"},
+    "audio": {"en": "assets/audio/en/yellow-en.mp3","hi": "assets/audio/hi/yellow-hi.mp3","gu": "assets/audio/gu/yellow-gu.mp3"},
+    "meta": {"category": "colors","order": 3},
+    "tags": ["color","learning","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Yellow color","hi":"पीला रंग","gu":"પીળો રંગ"}}
+  },
+  {
+    "id": "4",
+    "name": {"en": "Green","hi": "हरा","gu": "લીલું"},
+    "media": {"image": "assets/images/colors/colors-green.png"},
+    "audio": {"en": "assets/audio/en/green-en.mp3","hi": "assets/audio/hi/green-hi.mp3","gu": "assets/audio/gu/green-gu.mp3"},
+    "meta": {"category": "colors","order": 4},
+    "tags": ["color","learning","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Green color","hi":"हरा रंग","gu":"લીલું રંગ"}}
+  },
+  {
+    "id": "5",
+    "name": {"en": "Orange","hi": "संतरी","gu": "નારંગી"},
+    "media": {"image": "assets/images/colors/colors-orange.png"},
+    "audio": {"en": "assets/audio/en/orange-en.mp3","hi": "assets/audio/hi/orange-hi.mp3","gu": "assets/audio/gu/orange-gu.mp3"},
+    "meta": {"category": "colors","order": 5},
+    "tags": ["color","learning","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Orange color","hi":"संतरी रंग","gu":"નારંગી રંગ"}}
+  },
+  {
+    "id": "6",
+    "name": {"en": "Purple","hi": "बैंगनी","gu": "જાંબલી"},
+    "media": {"image": "assets/images/colors/colors-purple.png"},
+    "audio": {"en": "assets/audio/en/purple-en.mp3","hi": "assets/audio/hi/purple-hi.mp3","gu": "assets/audio/gu/purple-gu.mp3"},
+    "meta": {"category": "colors","order": 6},
+    "tags": ["color","learning","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Purple color","hi":"बैंगनी रंग","gu":"જાંબલી રંગ"}}
+  },
+  {
+    "id": "7",
+    "name": {"en": "Pink","hi": "गुलाबी","gu": "ગુલાબી"},
+    "media": {"image": "assets/images/colors/colors-pink.png"},
+    "audio": {"en": "assets/audio/en/pink-en.mp3","hi": "assets/audio/hi/pink-hi.mp3","gu": "assets/audio/gu/pink-gu.mp3"},
+    "meta": {"category": "colors","order": 7},
+    "tags": ["color","learning","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Pink color","hi":"गुलाबी रंग","gu":"ગુલાબી રંગ"}}
+  },
+  {
+    "id": "8",
+    "name": {"en": "Brown","hi": "भूरा","gu": "ભુરો"},
+    "media": {"image": "assets/images/colors/colors-brown.png"},
+    "audio": {"en": "assets/audio/en/brown-en.mp3","hi": "assets/audio/hi/brown-hi.mp3","gu": "assets/audio/gu/brown-gu.mp3"},
+    "meta": {"category": "colors","order": 8},
+    "tags": ["color","learning","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Brown color","hi":"भूरा रंग","gu":"ભુરો રંગ"}}
+  },
+  {
+    "id": "9",
+    "name": {"en": "Black","hi": "काला","gu": "કાળો"},
+    "media": {"image": "assets/images/colors/colors-black.png"},
+    "audio": {"en": "assets/audio/en/black-en.mp3","hi": "assets/audio/hi/black-hi.mp3","gu": "assets/audio/gu/black-gu.mp3"},
+    "meta": {"category": "colors","order": 9},
+    "tags": ["color","learning","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Black color","hi":"काला रंग","gu":"કાળો રંગ"}}
+  },
+  {
+    "id": "10",
+    "name": {"en": "White","hi": "सफेद","gu": "સફેદ"},
+    "media": {"image": "assets/images/colors/colors-white.png"},
+    "audio": {"en": "assets/audio/en/white-en.mp3","hi": "assets/audio/hi/white-hi.mp3","gu": "assets/audio/gu/white-gu.mp3"},
+    "meta": {"category": "colors","order": 10},
+    "tags": ["color","learning","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"White color","hi":"सफेद रंग","gu":"સફેદ રંગ"}}
+  },
+  {
+    "id": "11",
+    "name": {"en": "Gray","hi": "धूसर","gu": "ઢૂસરો"},
+    "media": {"image": "assets/images/colors/colors-gray.png"},
+    "audio": {"en": "assets/audio/en/gray-en.mp3","hi": "assets/audio/hi/gray-hi.mp3","gu": "assets/audio/gu/gray-gu.mp3"},
+    "meta": {"category": "colors","order": 11},
+    "tags": ["color","learning","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Gray color","hi":"धूसर रंग","gu":"ઢૂસરો રંગ"}}
+  }
+]

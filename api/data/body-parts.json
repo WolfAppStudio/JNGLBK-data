@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "name": {"en": "Crane","hi": "क्रेन","gu": "ક્રેન"},
+    "media": {"image": "assets/images/body-parts/vehicles-crane.png"},
+    "audio": {"en": "assets/audio/en/crane-en.mp3","hi": "assets/audio/hi/crane-hi.mp3","gu": "assets/audio/gu/crane-gu.mp3"},
+    "meta": {"category": "vehicles","order": 1},
+    "tags": ["vehicle","transport","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Crane","hi":"क्रेन","gu":"ક્રેન"}}
+  },
+  {
+    "id": "2",
+    "name": {"en": "Air Balloon","hi": "हवाई गुब्बारा","gu": "એર બલૂન"},
+    "media": {"image": "assets/images/body-parts/vehicles-air-balloon.png"},
+    "audio": {"en": "assets/audio/en/air-balloon-en.mp3","hi": "assets/audio/hi/air-balloon-hi.mp3","gu": "assets/audio/gu/air-balloon-gu.mp3"},
+    "meta": {"category": "vehicles","order": 2},
+    "tags": ["vehicle","transport","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Air Balloon","hi":"हवाई गुब्बारा","gu":"એર બલૂન"}}
+  },
+  {
+    "id": "3",
+    "name": {"en": "Airplane","hi": "विमान","gu": "વિમાન"},
+    "media": {"image": "assets/images/body-parts/vehicles-airplane.png"},
+    "audio": {"en": "assets/audio/en/airplane-en.mp3","hi": "assets/audio/hi/airplane-hi.mp3","gu": "assets/audio/gu/airplane-gu.mp3"},
+    "meta": {"category": "vehicles","order": 3},
+    "tags": ["vehicle","transport","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Airplane","hi":"विमान","gu":"વિમાન"}}
+  },
+  {
+    "id": "4",
+    "name": {"en": "Ambulance","hi": "एम्बुलेंस","gu": "એંબ્યુલન્સ"},
+    "media": {"image": "assets/images/body-parts/vehicles-ambulance.png"},
+    "audio": {"en": "assets/audio/en/ambulance-en.mp3","hi": "assets/audio/hi/ambulance-hi.mp3","gu": "assets/audio/gu/ambulance-gu.mp3"},
+    "meta": {"category": "vehicles","order": 4},
+    "tags": ["vehicle","transport","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Ambulance","hi":"एम्बुलेंस","gu":"એંબ્યુલન્સ"}}
+  },
+  {
+    "id": "5",
+    "name": {"en": "Auto","hi": "ऑटो","gu": "ઓટો"},
+    "media": {"image": "assets/images/body-parts/vehicles-auto.png"},
+    "audio": {"en": "assets/audio/en/auto-en.mp3","hi": "assets/audio/hi/auto-hi.mp3","gu": "assets/audio/gu/auto-gu.mp3"},
+    "meta": {"category": "vehicles","order": 5},
+    "tags": ["vehicle","transport","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Auto","hi":"ऑटो","gu":"ઓટો"}}
+  },
+  {
+    "id": "6",
+    "name": {"en": "Bicycle","hi": "साइकिल","gu": "સાઇકલ"},
+    "media": {"image": "assets/images/body-parts/vehicles-bicycle.png"},
+    "audio": {"en": "assets/audio/en/bicycle-en.mp3","hi": "assets/audio/hi/bicycle-hi.mp3","gu": "assets/audio/gu/bicycle-gu.mp3"},
+    "meta": {"category": "vehicles","order": 6},
+    "tags": ["vehicle","transport","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Bicycle","hi":"साइकिल","gu":"સાઇકલ"}}
+  },
+  {
+    "id": "7",
+    "name": {"en": "Bike","hi": "बाइक","gu": "બાઈક"},
+    "media": {"image": "assets/images/body-parts/vehicles-bike.png"},
+    "audio": {"en": "assets/audio/en/bike-en.mp3","hi": "assets/audio/hi/bike-hi.mp3","gu": "assets/audio/gu/bike-gu.mp3"},
+    "meta": {"category": "vehicles","order": 7},
+    "tags": ["vehicle","transport","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Bike","hi":"बाइक","gu":"બાઈક"}}
+  },
+  {
+    "id": "8",
+    "name": {"en": "Boat","hi": "नाव","gu": "નૌકા"},
+    "media": {"image": "assets/images/body-parts/vehicles-boat.png"},
+    "audio": {"en": "assets/audio/en/boat-en.mp3","hi": "assets/audio/hi/boat-hi.mp3","gu": "assets/audio/gu/boat-gu.mp3"},
+    "meta": {"category": "vehicles","order": 8},
+    "tags": ["vehicle","transport","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Boat","hi":"नाव","gu":"નૌકા"}}
+  },
+  {
+    "id": "9",
+    "name": {"en": "Bus","hi": "बस","gu": "બસ"},
+    "media": {"image": "assets/images/body-parts/vehicles-bus.png"},
+    "audio": {"en": "assets/audio/en/bus-en.mp3","hi": "assets/audio/hi/bus-hi.mp3","gu": "assets/audio/gu/bus-gu.mp3"},
+    "meta": {"category": "vehicles","order": 9},
+    "tags": ["vehicle","transport","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Bus","hi":"बस","gu":"બસ"}}
+  }
+]

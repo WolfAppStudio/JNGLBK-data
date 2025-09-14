@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "name": {"en": "Teacher","hi": "शिक्षक","gu": "શિક્ષક"},
+    "media": {"image": "icons/occupations-teacher.png"},
+    "audio": {"en": "audio/teacher-en.mp3","hi": "audio/teacher-hi.mp3","gu": "audio/teacher-gu.mp3"},
+    "meta": {"category": "occupations","order": 1},
+    "tags": ["occupation","profession","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Teacher","hi":"शिक्षक","gu":"શિક્ષક"}}
+  },
+  {
+    "id": "2",
+    "name": {"en": "Astronaut","hi": "अंतरिक्ष यात्री","gu": "અંતરિક્ષ યાત્રી"},
+    "media": {"image": "icons/occupations-astronaut.png"},
+    "audio": {"en": "audio/astronaut-en.mp3","hi": "audio/astronaut-hi.mp3","gu": "audio/astronaut-gu.mp3"},
+    "meta": {"category": "occupations","order": 2},
+    "tags": ["occupation","profession","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Astronaut","hi":"अंतरिक्ष यात्री","gu":"અંતરિક્ષ યાત્રી"}}
+  },
+  {
+    "id": "3",
+    "name": {"en": "Barber","hi": "नाई","gu": "નાઈ"},
+    "media": {"image": "icons/occupations-barber.png"},
+    "audio": {"en": "audio/barber-en.mp3","hi": "audio/barber-hi.mp3","gu": "audio/barber-gu.mp3"},
+    "meta": {"category": "occupations","order": 3},
+    "tags": ["occupation","profession","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Barber","hi":"नाई","gu":"નાઈ"}}
+  },
+  {
+    "id": "4",
+    "name": {"en": "Carpenter","hi": "बढ़ई","gu": "કાર્પેન્ટર"},
+    "media": {"image": "icons/occupations-carpenter.png"},
+    "audio": {"en": "audio/carpenter-en.mp3","hi": "audio/carpenter-hi.mp3","gu": "audio/carpenter-gu.mp3"},
+    "meta": {"category": "occupations","order": 4},
+    "tags": ["occupation","profession","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Carpenter","hi":"बढ़ई","gu":"કાર્પેન્ટર"}}
+  },
+  {
+    "id": "5",
+    "name": {"en": "Chef","hi": "रसोइया","gu": "શેફ"},
+    "media": {"image": "icons/occupations-chef.png"},
+    "audio": {"en": "audio/chef-en.mp3","hi": "audio/chef-hi.mp3","gu": "audio/chef-gu.mp3"},
+    "meta": {"category": "occupations","order": 5},
+    "tags": ["occupation","profession","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Chef","hi":"रसोइया","gu":"શેફ"}}
+  },
+  {
+    "id": "6",
+    "name": {"en": "Dentist","hi": "दंत चिकित्सक","gu": "દંતચિકિત્સક"},
+    "media": {"image": "icons/occupations-dentist.png"},
+    "audio": {"en": "audio/dentist-en.mp3","hi": "audio/dentist-hi.mp3","gu": "audio/dentist-gu.mp3"},
+    "meta": {"category": "occupations","order": 6},
+    "tags": ["occupation","profession","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Dentist","hi":"दंत चिकित्सक","gu":"દંતચિકિત્સક"}}
+  },
+  {
+    "id": "7",
+    "name": {"en": "Doctor","hi": "डॉक्टर","gu": "ડોક્ટર"},
+    "media": {"image": "icons/occupations-doctor.png"},
+    "audio": {"en": "audio/doctor-en.mp3","hi": "audio/doctor-hi.mp3","gu": "audio/doctor-gu.mp3"},
+    "meta": {"category": "occupations","order": 7},
+    "tags": ["occupation","profession","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Doctor","hi":"डॉक्टर","gu":"ડોક્ટર"}}
+  },
+  {
+    "id": "8",
+    "name": {"en": "Electrician","hi": "बिजली मिस्त्री","gu": "વિજળી મિસ્ત્રી"},
+    "media": {"image": "icons/occupations-electrician.png"},
+    "audio": {"en": "audio/electrician-en.mp3","hi": "audio/electrician-hi.mp3","gu": "audio/electrician-gu.mp3"},
+    "meta": {"category": "occupations","order": 8},
+    "tags": ["occupation","profession","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Electrician","hi":"बिजली मिस्त्री","gu":"વિજળી મિસ્ત્રી"}}
+  },
+  {
+    "id": "9",
+    "name": {"en": "Engineer","hi": "अभियंता","gu": "ઇજિનિયર"},
+    "media": {"image": "icons/occupations-engineer.png"},
+    "audio": {"en": "audio/engineer-en.mp3","hi": "audio/engineer-hi.mp3","gu": "audio/engineer-gu.mp3"},
+    "meta": {"category": "occupations","order": 9},
+    "tags": ["occupation","profession","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Engineer","hi":"अभियंता","gu":"ઇજિનિયર"}}
+  },
+  {
+    "id": "10",
+    "name": {"en": "Farmer","hi": "किसान","gu": "કૃષક"},
+    "media": {"image": "icons/occupations-farmer.png"},
+    "audio": {"en": "audio/farmer-en.mp3","hi": "audio/farmer-hi.mp3","gu": "audio/farmer-gu.mp3"},
+    "meta": {"category": "occupations","order": 10},
+    "tags": ["occupation","profession","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Farmer","hi":"किसान","gu":"કૃષક"}}
+  }
+]

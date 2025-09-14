@@ -1,0 +1,262 @@
+[
+  {
+    "id": "A",
+    "name": {"en": "Apple","hi": "सेब","gu": "સફરજન"},
+    "media": {"image": "assets/images/alphabets/alphabet-apple.png"},
+    "audio": {"en": "assets/audio/en/apple-en.mp3","hi": "assets/audio/hi/apple-hi.mp3","gu": "assets/audio/gu/apple-gu.mp3"},
+    "meta": {"letter": "A","category": "alphabets","order": 1},
+    "tags": ["fruit","alphabet","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Red apple fruit","hi":"लाल सेब का फल","gu":"લાલ સફરજનનું ફળ"}}
+  },
+  {
+    "id": "B",
+    "name": {"en": "Ball","hi": "गेंद","gu": "દડો"},
+    "media": {"image": "assets/images/alphabets/alphabet-ball.png"},
+    "audio": {"en": "assets/audio/en/ball-en.mp3","hi": "assets/audio/hi/ball-hi.mp3","gu": "assets/audio/gu/ball-gu.mp3"},
+    "meta": {"letter": "B","category": "alphabets","order": 2},
+    "tags": ["toy","alphabet","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"A round ball","hi":"एक गोल गेंद","gu":"એક ગોળ દડો"}}
+  },
+  {
+    "id": "C",
+    "name": {"en": "Cat","hi": "बिल्ली","gu": "બિલાડી"},
+    "media": {"image": "assets/images/alphabets/alphabet-cat.png"},
+    "audio": {"en": "assets/audio/en/cat-en.mp3","hi": "assets/audio/hi/cat-hi.mp3","gu": "assets/audio/gu/cat-gu.mp3"},
+    "meta": {"letter": "C","category": "alphabets","order": 3},
+    "tags": ["animal","alphabet","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"A cat","hi":"एक बिल्ली","gu":"એક બિલાડી"}}
+  },
+  {
+    "id": "D",
+    "name": {"en": "Dog","hi": "कुत्ता","gu": "કૂતરો"},
+    "media": {"image": "assets/images/alphabets/alphabet-dog.png"},
+    "audio": {"en": "assets/audio/en/dog-en.mp3","hi": "assets/audio/hi/dog-hi.mp3","gu": "assets/audio/gu/dog-gu.mp3"},
+    "meta": {"letter": "D","category": "alphabets","order": 4},
+    "tags": ["animal","alphabet","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"A dog","hi":"एक कुत्ता","gu":"એક કૂતરો"}}
+  },
+  {
+    "id": "E",
+    "name": {"en": "Elephant","hi": "हाथी","gu": "હાથી"},
+    "media": {"image": "assets/images/alphabets/alphabet-elephant.png"},
+    "audio": {"en": "assets/audio/en/elephant-en.mp3","hi": "assets/audio/hi/elephant-hi.mp3","gu": "assets/audio/gu/elephant-gu.mp3"},
+    "meta": {"letter": "E","category": "alphabets","order": 5},
+    "tags": ["animal","alphabet","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"An elephant","hi":"एक हाथी","gu":"એક હાથી"}}
+  },
+  {
+    "id": "F",
+    "name": {"en": "Fish","hi": "मछली","gu": "માછલી"},
+    "media": {"image": "assets/images/alphabets/alphabet-fish.png"},
+    "audio": {"en": "assets/audio/en/fish-en.mp3","hi": "assets/audio/hi/fish-hi.mp3","gu": "assets/audio/gu/fish-gu.mp3"},
+    "meta": {"letter": "F","category": "alphabets","order": 6},
+    "tags": ["animal","alphabet","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"A fish","hi":"एक मछली","gu":"એક માછલી"}}
+  },
+  {
+    "id": "G",
+    "name": {"en": "Grapes","hi": "अंगूर","gu": "કિસમિસ"},
+    "media": {"image": "assets/images/alphabets/alphabet-grapes.png"},
+    "audio": {"en": "assets/audio/en/grapes-en.mp3","hi": "assets/audio/hi/grapes-hi.mp3","gu": "assets/audio/gu/grapes-gu.mp3"},
+    "meta": {"letter": "G","category": "alphabets","order": 7},
+    "tags": ["fruit","alphabet","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"A bunch of grapes","hi":"अंगूर का गुच्छा","gu":"દ્રાક્ષનો જૂથ"}}
+  },
+  {
+    "id": "H",
+    "name": {"en": "Horse","hi": "घोड़ा","gu": "ઘોડો"},
+    "media": {"image": "assets/images/alphabets/alphabet-horse.png"},
+    "audio": {"en": "assets/audio/en/horse-en.mp3","hi": "assets/audio/hi/horse-hi.mp3","gu": "assets/audio/gu/horse-gu.mp3"},
+    "meta": {"letter": "H","category": "alphabets","order": 8},
+    "tags": ["animal","alphabet","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"A horse","hi":"एक घोड़ा","gu":"એક ઘોડો"}}
+  },
+  {
+    "id": "I",
+    "name": {"en": "Ice Cream","hi": "आइसक्रीम","gu": "આઈસક્રીમ"},
+    "media": {"image": "assets/images/alphabets/alphabet-icecream.png"},
+    "audio": {"en": "assets/audio/en/icecream-en.mp3","hi": "assets/audio/hi/icecream-hi.mp3","gu": "assets/audio/gu/icecream-gu.mp3"},
+    "meta": {"letter": "I","category": "alphabets","order": 9},
+    "tags": ["food","alphabet","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"Ice cream","hi":"आइसक्रीम","gu":"આઈસક્રીમ"}}
+  },
+  {
+    "id": "J",
+    "name": {"en": "Jug","hi": "जग","gu": "જગ"},
+    "media": {"image": "assets/images/alphabets/alphabet-jug.png"},
+    "audio": {"en": "assets/audio/en/jug-en.mp3","hi": "assets/audio/hi/jug-hi.mp3","gu": "assets/audio/gu/jug-gu.mp3"},
+    "meta": {"letter": "J","category": "alphabets","order": 10},
+    "tags": ["household","alphabet","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"A jug","hi":"एक जग","gu":"એક જગ"}}
+  },
+  {
+    "id": "K",
+    "name": {"en": "Kite","hi": "पतंग","gu": "ગીડું"},
+    "media": {"image": "assets/images/alphabets/alphabet-kite.png"},
+    "audio": {"en": "assets/audio/en/kite-en.mp3","hi": "assets/audio/hi/kite-hi.mp3","gu": "assets/audio/gu/kite-gu.mp3"},
+    "meta": {"letter": "K","category": "alphabets","order": 11},
+    "tags": ["toy","alphabet","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"A kite","hi":"एक पतंग","gu":"એક ગીડું"}}
+  },
+  {
+    "id": "L",
+    "name": {"en": "Lion","hi": "शेर","gu": "સિંહ"},
+    "media": {"image": "assets/images/alphabets/alphabet-lion.png"},
+    "audio": {"en": "assets/audio/en/lion-en.mp3","hi": "assets/audio/hi/lion-hi.mp3","gu": "assets/audio/gu/lion-gu.mp3"},
+    "meta": {"letter": "L","category": "alphabets","order": 12},
+    "tags": ["animal","alphabet","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"A lion","hi":"एक शेर","gu":"એક સિંહ"}}
+  },
+  {
+    "id": "M",
+    "name": {"en": "Monkey","hi": "बंदर","gu": "વાદર"},
+    "media": {"image": "assets/images/alphabets/alphabet-monkey.png"},
+    "audio": {"en": "assets/audio/en/monkey-en.mp3","hi": "assets/audio/hi/monkey-hi.mp3","gu": "assets/audio/gu/monkey-gu.mp3"},
+    "meta": {"letter": "M","category": "alphabets","order": 13},
+    "tags": ["animal","alphabet","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"A monkey","hi":"एक बंदर","gu":"એક વાદર"}}
+  },
+  {
+    "id": "N",
+    "name": {"en": "Nest","hi": "घोंसला","gu": "ઘુસલો"},
+    "media": {"image": "assets/images/alphabets/alphabet-nest.png"},
+    "audio": {"en": "assets/audio/en/nest-en.mp3","hi": "assets/audio/hi/nest-hi.mp3","gu": "assets/audio/gu/nest-gu.mp3"},
+    "meta": {"letter": "N","category": "alphabets","order": 14},
+    "tags": ["animal","alphabet","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"A nest","hi":"एक घोंसला","gu":"એક ઘુસલો"}}
+  },
+  {
+    "id": "O",
+    "name": {"en": "Orange","hi": "संतरा","gu": "સંતરો"},
+    "media": {"image": "assets/images/alphabets/alphabet-orange.png"},
+    "audio": {"en": "assets/audio/en/orange-en.mp3","hi": "assets/audio/hi/orange-hi.mp3","gu": "assets/audio/gu/orange-gu.mp3"},
+    "meta": {"letter": "O","category": "alphabets","order": 15},
+    "tags": ["fruit","alphabet","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"An orange fruit","hi":"एक संतरा","gu":"એક સંતરો"}}
+  },
+  {
+    "id": "P",
+    "name": {"en": "Parrot","hi": "तोता","gu": "તોતા"},
+    "media": {"image": "assets/images/alphabets/alphabet-parrot.png"},
+    "audio": {"en": "assets/audio/en/parrot-en.mp3","hi": "assets/audio/hi/parrot-hi.mp3","gu": "assets/audio/gu/parrot-gu.mp3"},
+    "meta": {"letter": "P","category": "alphabets","order": 16},
+    "tags": ["bird","alphabet","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"A parrot","hi":"एक तोता","gu":"એક તોતા"}}
+  },
+  {
+    "id": "Q",
+    "name": {"en": "Queen","hi": "रानी","gu": "રાણી"},
+    "media": {"image": "assets/images/alphabets/alphabet-queen.png"},
+    "audio": {"en": "assets/audio/en/queen-en.mp3","hi": "assets/audio/hi/queen-hi.mp3","gu": "assets/audio/gu/queen-gu.mp3"},
+    "meta": {"letter": "Q","category": "alphabets","order": 17},
+    "tags": ["person","alphabet","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"A queen","hi":"एक रानी","gu":"એક રાણી"}}
+  },
+  {
+    "id": "R",
+    "name": {"en": "Rose","hi": "गुलाब","gu": "ગુલાબ"},
+    "media": {"image": "assets/images/alphabets/alphabet-rose.png"},
+    "audio": {"en": "assets/audio/en/rose-en.mp3","hi": "assets/audio/hi/rose-hi.mp3","gu": "assets/audio/gu/rose-gu.mp3"},
+    "meta": {"letter": "R","category": "alphabets","order": 18},
+    "tags": ["flower","alphabet","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"A rose","hi":"एक गुलाब","gu":"એક ગુલાબ"}}
+  },
+  {
+    "id": "S",
+    "name": {"en": "Sun","hi": "सूरज","gu": "સૂર્ય"},
+    "media": {"image": "assets/images/alphabets/alphabet-sun.png"},
+    "audio": {"en": "assets/audio/en/sun-en.mp3","hi": "assets/audio/hi/sun-hi.mp3","gu": "assets/audio/gu/sun-gu.mp3"},
+    "meta": {"letter": "S","category": "alphabets","order": 19},
+    "tags": ["nature","alphabet","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"The sun","hi":"सूरज","gu":"સૂર્ય"}}
+  },
+  {
+    "id": "T",
+    "name": {"en": "Tiger","hi": "बाघ","gu": "વાઘ"},
+    "media": {"image": "assets/images/alphabets/alphabet-tiger.png"},
+    "audio": {"en": "assets/audio/en/tiger-en.mp3","hi": "assets/audio/hi/tiger-hi.mp3","gu": "assets/audio/gu/tiger-gu.mp3"},
+    "meta": {"letter": "T","category": "alphabets","order": 20},
+    "tags": ["animal","alphabet","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"A tiger","hi":"एक बाघ","gu":"એક વાઘ"}}
+  },
+  {
+    "id": "U",
+    "name": {"en": "Umbrella","hi": "छाता","gu": "છત્રી"},
+    "media": {"image": "assets/images/alphabets/alphabet-umbrella.png"},
+    "audio": {"en": "assets/audio/en/umbrella-en.mp3","hi": "assets/audio/hi/umbrella-hi.mp3","gu": "assets/audio/gu/umbrella-gu.mp3"},
+    "meta": {"letter": "U","category": "alphabets","order": 21},
+    "tags": ["object","alphabet","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"An umbrella","hi":"एक छाता","gu":"એક છત્રી"}}
+  },
+  {
+    "id": "V",
+    "name": {"en": "Van","hi": "वैन","gu": "વેને"},
+    "media": {"image": "assets/images/alphabets/alphabet-van.png"},
+    "audio": {"en": "assets/audio/en/van-en.mp3","hi": "assets/audio/hi/van-hi.mp3","gu": "assets/audio/gu/van-gu.mp3"},
+    "meta": {"letter": "V","category": "alphabets","order": 22},
+    "tags": ["vehicle","alphabet","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"A van","hi":"एक वैन","gu":"એક વેન"}}
+  },
+  {
+    "id": "W",
+    "name": {"en": "Watch","hi": "घड़ी","gu": "કલાક"},
+    "media": {"image": "assets/images/alphabets/alphabet-watch.png"},
+    "audio": {"en": "assets/audio/en/watch-en.mp3","hi": "assets/audio/hi/watch-hi.mp3","gu": "assets/audio/gu/watch-gu.mp3"},
+    "meta": {"letter": "W","category": "alphabets","order": 23},
+    "tags": ["object","alphabet","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"A watch","hi":"एक घड़ी","gu":"એક કલાક"}}
+  },
+  {
+    "id": "X",
+    "name": {"en": "Xmas Tree","hi": "क्रिसमस का पेड़","gu": "ક્રિસમસ ટ્રી"},
+    "media": {"image": "assets/images/alphabets/alphabet-x-mas-tree.png"},
+    "audio": {"en": "assets/audio/en/xmas-tree-en.mp3","hi": "assets/audio/hi/xmas-tree-hi.mp3","gu": "assets/audio/gu/xmas-tree-gu.mp3"},
+    "meta": {"letter": "X","category": "alphabets","order": 24},
+    "tags": ["object","alphabet","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"A Christmas tree","hi":"क्रिसमस का पेड़","gu":"ક્રિસમસ ટ્રી"}}
+  },
+  {
+    "id": "Y",
+    "name": {"en": "Yak","hi": "याक","gu": "યાક"},
+    "media": {"image": "assets/images/alphabets/alphabet-yak.png"},
+    "audio": {"en": "assets/audio/en/yak-en.mp3","hi": "assets/audio/hi/yak-hi.mp3","gu": "assets/audio/gu/yak-gu.mp3"},
+    "meta": {"letter": "Y","category": "alphabets","order": 25},
+    "tags": ["animal","alphabet","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"A yak","hi":"एक याक","gu":"એક યાક"}}
+  },
+  {
+    "id": "Z",
+    "name": {"en": "Zebra","hi": "ज़ेबरा","gu": "ઝેબરા"},
+    "media": {"image": "assets/images/alphabets/alphabet-zebra.png"},
+    "audio": {"en": "assets/audio/en/zebra-en.mp3","hi": "assets/audio/hi/zebra-hi.mp3","gu": "assets/audio/gu/zebra-gu.mp3"},
+    "meta": {"letter": "Z","category": "alphabets","order": 26},
+    "tags": ["animal","alphabet","kids"],
+    "voiceSupport": {"en": true,"hi": true,"gu": true},
+    "accessibility": {"altText":{"en":"A zebra","hi":"एक ज़ेबरा","gu":"એક ઝેબરા"}}
+  }
+]
