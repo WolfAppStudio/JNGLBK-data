@@ -1,0 +1,102 @@
+[
+  {
+    "id": 500,
+    "index": 0,
+    "name": {"en": "Camel","hi": "ऊँट","gu": "ઊંટ"},
+    "media": {"image": "icons/animals-camel.png"},
+    "audio": {"en": "audio/camel-en.mp3","hi": "audio/camel-hi.mp3","gu": "audio/camel-gu.mp3"},
+    "meta": {"category": "animals","order": 1},
+    "tags": ["animal","sound","kids"],
+    "accessibility": {"altText":{"en":"Camel","hi":"ऊँट","gu":"ઊંટ"}}
+  },
+  {
+    "id": 501,
+    "index": 1,
+    "name": {"en": "Cow","hi": "गाय","gu": "ગાય"},
+    "media": {"image": "icons/animals-cow.png"},
+    "audio": {"en": "audio/cow-en.mp3","hi": "audio/cow-hi.mp3","gu": "audio/cow-gu.mp3"},
+    "meta": {"category": "animals","order": 2},
+    "tags": ["animal","sound","kids"],
+    "accessibility": {"altText":{"en":"Cow","hi":"गाय","gu":"ગાય"}}
+  },
+  {
+    "id": 502,
+    "index": 2,
+    "name": {"en": "Dog","hi": "कुत्ता","gu": "કૂતરો"},
+    "media": {"image": "icons/animals-dog.png"},
+    "audio": {"en": "audio/dog-en.mp3","hi": "audio/dog-hi.mp3","gu": "audio/dog-gu.mp3"},
+    "meta": {"category": "animals","order": 3},
+    "tags": ["animal","sound","kids"],
+    "accessibility": {"altText":{"en":"Dog","hi":"कुत्ता","gu":"કૂતરો"}}
+  },
+  {
+    "id": 503,
+    "index": 3,
+    "name": {"en": "Dolphin","hi": "डॉल्फ़िन","gu": "ડોલ્ફિન"},
+    "media": {"image": "icons/animals-dolphin.png"},
+    "audio": {"en": "audio/dolphin-en.mp3","hi": "audio/dolphin-hi.mp3","gu": "audio/dolphin-gu.mp3"},
+    "meta": {"category": "animals","order": 4},
+    "tags": ["animal","sound","kids"],
+    "accessibility": {"altText":{"en":"Dolphin","hi":"डॉल्फ़िन","gu":"ડોલ્ફિન"}}
+  },
+  {
+    "id": 504,
+    "index": 4,
+    "name": {"en": "Donkey","hi": "गधा","gu": "ગધો"},
+    "media": {"image": "icons/animals-donkey.png"},
+    "audio": {"en": "audio/donkey-en.mp3","hi": "audio/donkey-hi.mp3","gu": "audio/donkey-gu.mp3"},
+    "meta": {"category": "animals","order": 5},
+    "tags": ["animal","sound","kids"],
+    "accessibility": {"altText":{"en":"Donkey","hi":"गधा","gu":"ગધો"}}
+  },
+  {
+    "id": 505,
+    "index": 5,
+    "name": {"en": "Elephant","hi": "हाथी","gu": "હાથી"},
+    "media": {"image": "icons/animals-elephant.png"},
+    "audio": {"en": "audio/elephant-en.mp3","hi": "audio/elephant-hi.mp3","gu": "audio/elephant-gu.mp3"},
+    "meta": {"category": "animals","order": 6},
+    "tags": ["animal","sound","kids"],
+    "accessibility": {"altText":{"en":"Elephant","hi":"हाथी","gu":"હાથી"}}
+  },
+  {
+    "id": 506,
+    "index": 6,
+    "name": {"en": "Fox","hi": "लोमड़ी","gu": "કૂતરો"},
+    "media": {"image": "icons/animals-fox.png"},
+    "audio": {"en": "audio/fox-en.mp3","hi": "audio/fox-hi.mp3","gu": "audio/fox-gu.mp3"},
+    "meta": {"category": "animals","order": 7},
+    "tags": ["animal","sound","kids"],
+    "accessibility": {"altText":{"en":"Fox","hi":"लोमड़ी","gu":"કૂતરો"}}
+  },
+  {
+    "id": 507,
+    "index": 7,
+    "name": {"en": "Frog","hi": "मेंढक","gu": "બેસરડો"},
+    "media": {"image": "icons/animals-frog.png"},
+    "audio": {"en": "audio/frog-en.mp3","hi": "audio/frog-hi.mp3","gu": "audio/frog-gu.mp3"},
+    "meta": {"category": "animals","order": 8},
+    "tags": ["animal","sound","kids"],
+    "accessibility": {"altText":{"en":"Frog","hi":"मेंढक","gu":"બેસરડો"}}
+  },
+  {
+    "id": 508,
+    "index": 8,
+    "name": {"en": "Giraffe","hi": "जिराफ़","gu": "જિરાફ"},
+    "media": {"image": "icons/animals-giraffe.png"},
+    "audio": {"en": "audio/giraffe-en.mp3","hi": "audio/giraffe-hi.mp3","gu": "audio/giraffe-gu.mp3"},
+    "meta": {"category": "animals","order": 9},
+    "tags": ["animal","sound","kids"],
+    "accessibility": {"altText":{"en":"Giraffe","hi":"जिराफ़","gu":"જિરાફ"}}
+  },
+  {
+    "id": 509,
+    "index": 9,
+    "name": {"en": "Gorilla","hi": "गोरिल्ला","gu": "ગોરિલ્લા"},
+    "media": {"image": "icons/animals-gorilla.png"},
+    "audio": {"en": "audio/gorilla-en.mp3","hi": "audio/gorilla-hi.mp3","gu": "audio/gorilla-gu.mp3"},
+    "meta": {"category": "animals","order": 10},
+    "tags": ["animal","sound","kids"],
+    "accessibility": {"altText":{"en":"Gorilla","hi":"गोरिल्ला","gu":"ગોરિલ્લા"}}
+  }
+]
