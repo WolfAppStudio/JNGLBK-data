@@ -1,0 +1,282 @@
+[
+  {
+    "id": 500,
+    "name": {
+      "en": "Camel",
+      "hi": "ऊँट",
+      "gu": "ઊંટ"
+    },
+    "media": {
+      "image": "icons/animals/animals-camel.png"
+    },
+    "meta": {
+      "category": "animals",
+      "order": 1
+    },
+    "tags": [
+      "animal",
+      "sound",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Camel",
+        "hi": "ऊँट",
+        "gu": "ઊંટ"
+      }
+    },
+    "slug": "camel"
+  },
+  {
+    "id": 501,
+    "name": {
+      "en": "Cow",
+      "hi": "गाय",
+      "gu": "ગાય"
+    },
+    "media": {
+      "image": "icons/animals/animals-cow.png"
+    },
+    "meta": {
+      "category": "animals",
+      "order": 2
+    },
+    "tags": [
+      "animal",
+      "sound",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Cow",
+        "hi": "गाय",
+        "gu": "ગાય"
+      }
+    },
+    "slug": "cow"
+  },
+  {
+    "id": 502,
+    "name": {
+      "en": "Dog",
+      "hi": "कुत्ता",
+      "gu": "કૂતરો"
+    },
+    "media": {
+      "image": "icons/animals/animals-dog.png"
+    },
+    "meta": {
+      "category": "animals",
+      "order": 3
+    },
+    "tags": [
+      "animal",
+      "sound",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Dog",
+        "hi": "कुत्ता",
+        "gu": "કૂતરો"
+      }
+    },
+    "slug": "dog"
+  },
+  {
+    "id": 503,
+    "name": {
+      "en": "Dolphin",
+      "hi": "डॉल्फ़िन",
+      "gu": "ડોલ્ફિન"
+    },
+    "media": {
+      "image": "icons/animals/animals-dolphin.png"
+    },
+    "meta": {
+      "category": "animals",
+      "order": 4
+    },
+    "tags": [
+      "animal",
+      "sound",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Dolphin",
+        "hi": "डॉल्फ़िन",
+        "gu": "ડોલ્ફિન"
+      }
+    },
+    "slug": "dolphin"
+  },
+  {
+    "id": 504,
+    "name": {
+      "en": "Donkey",
+      "hi": "गधा",
+      "gu": "ગધો"
+    },
+    "media": {
+      "image": "icons/animals/animals-donkey.png"
+    },
+    "meta": {
+      "category": "animals",
+      "order": 5
+    },
+    "tags": [
+      "animal",
+      "sound",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Donkey",
+        "hi": "गधा",
+        "gu": "ગધો"
+      }
+    },
+    "slug": "donkey"
+  },
+  {
+    "id": 505,
+    "name": {
+      "en": "Elephant",
+      "hi": "हाथी",
+      "gu": "હાથી"
+    },
+    "media": {
+      "image": "icons/animals/animals-elephant.png"
+    },
+    "meta": {
+      "category": "animals",
+      "order": 6
+    },
+    "tags": [
+      "animal",
+      "sound",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Elephant",
+        "hi": "हाथी",
+        "gu": "હાથી"
+      }
+    },
+    "slug": "elephant"
+  },
+  {
+    "id": 506,
+    "name": {
+      "en": "Fox",
+      "hi": "लोमड़ी",
+      "gu": "કૂતરો"
+    },
+    "media": {
+      "image": "icons/animals/animals-fox.png"
+    },
+    "meta": {
+      "category": "animals",
+      "order": 7
+    },
+    "tags": [
+      "animal",
+      "sound",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Fox",
+        "hi": "लोमड़ी",
+        "gu": "કૂતરો"
+      }
+    },
+    "slug": "fox"
+  },
+  {
+    "id": 507,
+    "name": {
+      "en": "Frog",
+      "hi": "मेंढक",
+      "gu": "બેસરડો"
+    },
+    "media": {
+      "image": "icons/animals/animals-frog.png"
+    },
+    "meta": {
+      "category": "animals",
+      "order": 8
+    },
+    "tags": [
+      "animal",
+      "sound",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Frog",
+        "hi": "मेंढक",
+        "gu": "બેસરડો"
+      }
+    },
+    "slug": "frog"
+  },
+  {
+    "id": 508,
+    "name": {
+      "en": "Giraffe",
+      "hi": "जिराफ़",
+      "gu": "જિરાફ"
+    },
+    "media": {
+      "image": "icons/animals/animals-giraffe.png"
+    },
+    "meta": {
+      "category": "animals",
+      "order": 9
+    },
+    "tags": [
+      "animal",
+      "sound",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Giraffe",
+        "hi": "जिराफ़",
+        "gu": "જિરાફ"
+      }
+    },
+    "slug": "giraffe"
+  },
+  {
+    "id": 509,
+    "name": {
+      "en": "Gorilla",
+      "hi": "गोरिल्ला",
+      "gu": "ગોરિલ્લા"
+    },
+    "media": {
+      "image": "icons/animals/animals-gorilla.png"
+    },
+    "meta": {
+      "category": "animals",
+      "order": 10
+    },
+    "tags": [
+      "animal",
+      "sound",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Gorilla",
+        "hi": "गोरिल्ला",
+        "gu": "ગોરિલ્લા"
+      }
+    },
+    "slug": "gorilla"
+  }
+]

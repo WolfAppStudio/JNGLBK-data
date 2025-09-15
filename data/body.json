@@ -1,0 +1,338 @@
+[
+  {
+    "id": 400,
+    "name": {
+      "en": "Head",
+      "hi": "सिर",
+      "gu": "માથું"
+    },
+    "media": {
+      "image": "icons/body/body-head.png"
+    },
+    "meta": {
+      "category": "body-parts",
+      "order": 1
+    },
+    "tags": [
+      "body",
+      "human",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Head",
+        "hi": "सिर",
+        "gu": "માથું"
+      }
+    },
+    "slug": "head"
+  },
+  {
+    "id": 401,
+    "name": {
+      "en": "Eyes",
+      "hi": "आंखें",
+      "gu": "આંખો"
+    },
+    "media": {
+      "image": "icons/body/body-eyes.png"
+    },
+    "meta": {
+      "category": "body-parts",
+      "order": 2
+    },
+    "tags": [
+      "body",
+      "human",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Eyes",
+        "hi": "आंखें",
+        "gu": "આંખો"
+      }
+    },
+    "slug": "eyes"
+  },
+  {
+    "id": 402,
+    "name": {
+      "en": "Ears",
+      "hi": "कान",
+      "gu": "કાન"
+    },
+    "media": {
+      "image": "icons/body/body-ears.png"
+    },
+    "meta": {
+      "category": "body-parts",
+      "order": 3
+    },
+    "tags": [
+      "body",
+      "human",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Ears",
+        "hi": "कान",
+        "gu": "કાન"
+      }
+    },
+    "slug": "ears"
+  },
+  {
+    "id": 403,
+    "name": {
+      "en": "Nose",
+      "hi": "नाक",
+      "gu": "नाक"
+    },
+    "media": {
+      "image": "icons/body/body-nose.png"
+    },
+    "meta": {
+      "category": "body-parts",
+      "order": 4
+    },
+    "tags": [
+      "body",
+      "human",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Nose",
+        "hi": "नाक",
+        "gu": "नाक"
+      }
+    },
+    "slug": "nose"
+  },
+  {
+    "id": 404,
+    "name": {
+      "en": "Lips",
+      "hi": "होंठ",
+      "gu": "ઓઠ"
+    },
+    "media": {
+      "image": "icons/body/body-lips.png"
+    },
+    "meta": {
+      "category": "body-parts",
+      "order": 5
+    },
+    "tags": [
+      "body",
+      "human",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Lips",
+        "hi": "होंठ",
+        "gu": "ઓઠ"
+      }
+    },
+    "slug": "lips"
+  },
+  {
+    "id": 405,
+    "name": {
+      "en": "Teeth",
+      "hi": "दांत",
+      "gu": "દાંત"
+    },
+    "media": {
+      "image": "icons/body/body-teeth.png"
+    },
+    "meta": {
+      "category": "body-parts",
+      "order": 6
+    },
+    "tags": [
+      "body",
+      "human",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Teeth",
+        "hi": "दांत",
+        "gu": "દાંત"
+      }
+    },
+    "slug": "teeth"
+  },
+  {
+    "id": 406,
+    "name": {
+      "en": "Tongue",
+      "hi": "जुबान",
+      "gu": "જીભ"
+    },
+    "media": {
+      "image": "icons/body/body-tongue.png"
+    },
+    "meta": {
+      "category": "body-parts",
+      "order": 7
+    },
+    "tags": [
+      "body",
+      "human",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Tongue",
+        "hi": "जुबान",
+        "gu": "જીભ"
+      }
+    },
+    "slug": "tongue"
+  },
+  {
+    "id": 407,
+    "name": {
+      "en": "Mouth",
+      "hi": "मुंह",
+      "gu": "મોઢું"
+    },
+    "media": {
+      "image": "icons/body/body-mouth.png"
+    },
+    "meta": {
+      "category": "body-parts",
+      "order": 8
+    },
+    "tags": [
+      "body",
+      "human",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Mouth",
+        "hi": "मुंह",
+        "gu": "મોઢું"
+      }
+    },
+    "slug": "mouth"
+  },
+  {
+    "id": 408,
+    "name": {
+      "en": "Arms",
+      "hi": "बाहें",
+      "gu": "બાહું"
+    },
+    "media": {
+      "image": "icons/body/body-arms.png"
+    },
+    "meta": {
+      "category": "body-parts",
+      "order": 9
+    },
+    "tags": [
+      "body",
+      "human",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Arms",
+        "hi": "बाहें",
+        "gu": "બાહું"
+      }
+    },
+    "slug": "arms"
+  },
+  {
+    "id": 409,
+    "name": {
+      "en": "Hands",
+      "hi": "हाथ",
+      "gu": "હાથ"
+    },
+    "media": {
+      "image": "icons/body/body-hands.png"
+    },
+    "meta": {
+      "category": "body-parts",
+      "order": 10
+    },
+    "tags": [
+      "body",
+      "human",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Hands",
+        "hi": "हाथ",
+        "gu": "હાથ"
+      }
+    },
+    "slug": "hands"
+  },
+  {
+    "id": 410,
+    "name": {
+      "en": "Legs",
+      "hi": "पैर",
+      "gu": "પગ"
+    },
+    "media": {
+      "image": "icons/body/body-legs.png"
+    },
+    "meta": {
+      "category": "body-parts",
+      "order": 11
+    },
+    "tags": [
+      "body",
+      "human",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Legs",
+        "hi": "पैर",
+        "gu": "પગ"
+      }
+    },
+    "slug": "legs"
+  },
+  {
+    "id": 411,
+    "name": {
+      "en": "Feet",
+      "hi": "पैर",
+      "gu": "પગ"
+    },
+    "media": {
+      "image": "icons/body/body-feet.png"
+    },
+    "meta": {
+      "category": "body-parts",
+      "order": 12
+    },
+    "tags": [
+      "body",
+      "human",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Feet",
+        "hi": "पैर",
+        "gu": "પગ"
+      }
+    },
+    "slug": "feet"
+  }
+]

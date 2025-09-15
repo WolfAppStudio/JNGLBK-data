@@ -1,0 +1,100 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Learning Items",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "name",
+      "media",
+      "meta",
+      "tags",
+      "accessibility",
+      "slug"
+    ],
+    "properties": {
+      "id": {
+        "oneOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "integer"
+          }
+        ]
+      },
+      "slug": {
+        "type": "string"
+      },
+      "name": {
+        "type": "object",
+        "required": [
+          "en",
+          "hi",
+          "gu"
+        ],
+        "properties": {
+          "en": {
+            "type": "string"
+          },
+          "hi": {
+            "type": "string"
+          },
+          "gu": {
+            "type": "string"
+          }
+        }
+      },
+      "media": {
+        "type": "object",
+        "properties": {
+          "image": {
+            "type": "string"
+          }
+        }
+      },
+      "meta": {
+        "type": "object",
+        "properties": {
+          "category": {
+            "type": "string"
+          },
+          "order": {
+            "type": "integer"
+          }
+        }
+      },
+      "tags": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "accessibility": {
+        "type": "object",
+        "properties": {
+          "altText": {
+            "type": "object",
+            "properties": {
+              "en": {
+                "type": "string"
+              },
+              "hi": {
+                "type": "string"
+              },
+              "gu": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "en",
+              "hi",
+              "gu"
+            ]
+          }
+        }
+      }
+    }
+  }
+}

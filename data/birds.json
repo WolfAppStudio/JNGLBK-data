@@ -1,0 +1,282 @@
+[
+  {
+    "id": 600,
+    "name": {
+      "en": "Woodpecker",
+      "hi": "कठफोड़वा",
+      "gu": "કઠફોડક"
+    },
+    "media": {
+      "image": "icons/birds/birds-woodpeacker.png"
+    },
+    "meta": {
+      "category": "birds",
+      "order": 1
+    },
+    "tags": [
+      "bird",
+      "sound",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Woodpecker",
+        "hi": "कठफोड़वा",
+        "gu": "કઠફોડક"
+      }
+    },
+    "slug": "woodpecker"
+  },
+  {
+    "id": 601,
+    "name": {
+      "en": "Crow",
+      "hi": "कौआ",
+      "gu": "કાગડો"
+    },
+    "media": {
+      "image": "icons/birds/birds-crow.png"
+    },
+    "meta": {
+      "category": "birds",
+      "order": 2
+    },
+    "tags": [
+      "bird",
+      "sound",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Crow",
+        "hi": "कौआ",
+        "gu": "કાગડો"
+      }
+    },
+    "slug": "crow"
+  },
+  {
+    "id": 602,
+    "name": {
+      "en": "Duck",
+      "hi": "बतख",
+      "gu": "હંસ"
+    },
+    "media": {
+      "image": "icons/birds/birds-duck.png"
+    },
+    "meta": {
+      "category": "birds",
+      "order": 3
+    },
+    "tags": [
+      "bird",
+      "sound",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Duck",
+        "hi": "बतख",
+        "gu": "હંસ"
+      }
+    },
+    "slug": "duck"
+  },
+  {
+    "id": 603,
+    "name": {
+      "en": "Eagle",
+      "hi": "गरुड़",
+      "gu": "ગરુડ"
+    },
+    "media": {
+      "image": "icons/birds/birds-eagle.png"
+    },
+    "meta": {
+      "category": "birds",
+      "order": 4
+    },
+    "tags": [
+      "bird",
+      "sound",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Eagle",
+        "hi": "गरुड़",
+        "gu": "ગરુડ"
+      }
+    },
+    "slug": "eagle"
+  },
+  {
+    "id": 604,
+    "name": {
+      "en": "Falcon",
+      "hi": "बाज़",
+      "gu": "ગિર્દિયાલ"
+    },
+    "media": {
+      "image": "icons/birds/birds-falcon.png"
+    },
+    "meta": {
+      "category": "birds",
+      "order": 5
+    },
+    "tags": [
+      "bird",
+      "sound",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Falcon",
+        "hi": "बाज़",
+        "gu": "ગિર્દિયાલ"
+      }
+    },
+    "slug": "falcon"
+  },
+  {
+    "id": 605,
+    "name": {
+      "en": "Flamingo",
+      "hi": "फ्लेमिंगो",
+      "gu": "ફ્લેમિંગો"
+    },
+    "media": {
+      "image": "icons/birds/birds-flamingo.png"
+    },
+    "meta": {
+      "category": "birds",
+      "order": 6
+    },
+    "tags": [
+      "bird",
+      "sound",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Flamingo",
+        "hi": "फ्लेमिंगो",
+        "gu": "ફ્લેમિંગો"
+      }
+    },
+    "slug": "flamingo"
+  },
+  {
+    "id": 606,
+    "name": {
+      "en": "Hen",
+      "hi": "मुर्गी",
+      "gu": "કુકડી"
+    },
+    "media": {
+      "image": "icons/birds/birds-hen.png"
+    },
+    "meta": {
+      "category": "birds",
+      "order": 7
+    },
+    "tags": [
+      "bird",
+      "sound",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Hen",
+        "hi": "मुर्गी",
+        "gu": "કુકડી"
+      }
+    },
+    "slug": "hen"
+  },
+  {
+    "id": 607,
+    "name": {
+      "en": "Heron",
+      "hi": "बगुला",
+      "gu": "બગુલા"
+    },
+    "media": {
+      "image": "icons/birds/birds-heron.png"
+    },
+    "meta": {
+      "category": "birds",
+      "order": 8
+    },
+    "tags": [
+      "bird",
+      "sound",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Heron",
+        "hi": "बगुला",
+        "gu": "બગુલા"
+      }
+    },
+    "slug": "heron"
+  },
+  {
+    "id": 608,
+    "name": {
+      "en": "Honey Bee",
+      "hi": "मधुमक्खी",
+      "gu": "મધુમાખી"
+    },
+    "media": {
+      "image": "icons/birds/birds-honey-bee.png"
+    },
+    "meta": {
+      "category": "birds",
+      "order": 9
+    },
+    "tags": [
+      "insect",
+      "sound",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Honey Bee",
+        "hi": "मधुमक्खी",
+        "gu": "મધુમાખી"
+      }
+    },
+    "slug": "honey-bee"
+  },
+  {
+    "id": 609,
+    "name": {
+      "en": "Owl",
+      "hi": "उल्लू",
+      "gu": "ઘુવડ"
+    },
+    "media": {
+      "image": "icons/birds/birds-owl.png"
+    },
+    "meta": {
+      "category": "birds",
+      "order": 10
+    },
+    "tags": [
+      "bird",
+      "sound",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Owl",
+        "hi": "उल्लू",
+        "gu": "ઘુવડ"
+      }
+    },
+    "slug": "owl"
+  }
+]

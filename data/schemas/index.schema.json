@@ -1,0 +1,85 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Categories Index",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "id",
+      "index",
+      "title",
+      "slug",
+      "type",
+      "icon",
+      "description",
+      "tags",
+      "meta",
+      "primaryColor",
+      "secondaryColor",
+      "gradient",
+      "difficulty",
+      "featured",
+      "locale",
+      "altTitle"
+    ],
+    "properties": {
+      "id": {
+        "type": "integer"
+      },
+      "index": {
+        "type": "integer"
+      },
+      "title": {
+        "type": "object"
+      },
+      "slug": {
+        "type": "string"
+      },
+      "type": {
+        "type": "string"
+      },
+      "icon": {
+        "type": "string"
+      },
+      "imageURL": {
+        "type": [
+          "string",
+          "null"
+        ]
+      },
+      "description": {
+        "type": "object"
+      },
+      "tags": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "meta": {
+        "type": "object"
+      },
+      "primaryColor": {
+        "type": "string"
+      },
+      "secondaryColor": {
+        "type": "string"
+      },
+      "gradient": {
+        "type": "object"
+      },
+      "difficulty": {
+        "type": "string"
+      },
+      "featured": {
+        "type": "boolean"
+      },
+      "locale": {
+        "type": "array"
+      },
+      "altTitle": {
+        "type": "object"
+      }
+    }
+  }
+}

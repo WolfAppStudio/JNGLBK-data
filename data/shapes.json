@@ -1,0 +1,282 @@
+[
+  {
+    "id": 300,
+    "name": {
+      "en": "Circle",
+      "hi": "वृत्त",
+      "gu": "વૃત્ત"
+    },
+    "media": {
+      "image": "icons/shapes/shapes-circle.png"
+    },
+    "meta": {
+      "category": "shapes",
+      "order": 1
+    },
+    "tags": [
+      "shape",
+      "geometry",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "A circle",
+        "hi": "एक वृत्त",
+        "gu": "એક વૃત્ત"
+      }
+    },
+    "slug": "circle"
+  },
+  {
+    "id": 301,
+    "name": {
+      "en": "Square",
+      "hi": "वर्ग",
+      "gu": "ચોરસ"
+    },
+    "media": {
+      "image": "icons/shapes/shapes-square.png"
+    },
+    "meta": {
+      "category": "shapes",
+      "order": 2
+    },
+    "tags": [
+      "shape",
+      "geometry",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "A square",
+        "hi": "एक वर्ग",
+        "gu": "એક ચોરસ"
+      }
+    },
+    "slug": "square"
+  },
+  {
+    "id": 302,
+    "name": {
+      "en": "Triangle",
+      "hi": "त्रिभुज",
+      "gu": "ત્રિકોણ"
+    },
+    "media": {
+      "image": "icons/shapes/shapes-triangle.png"
+    },
+    "meta": {
+      "category": "shapes",
+      "order": 3
+    },
+    "tags": [
+      "shape",
+      "geometry",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "A triangle",
+        "hi": "एक त्रिभुज",
+        "gu": "એક ત્રિકોણ"
+      }
+    },
+    "slug": "triangle"
+  },
+  {
+    "id": 303,
+    "name": {
+      "en": "Rectangle",
+      "hi": "आयत",
+      "gu": "આયત"
+    },
+    "media": {
+      "image": "icons/shapes/shapes-rectangle.png"
+    },
+    "meta": {
+      "category": "shapes",
+      "order": 4
+    },
+    "tags": [
+      "shape",
+      "geometry",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "A rectangle",
+        "hi": "एक आयत",
+        "gu": "એક આયત"
+      }
+    },
+    "slug": "rectangle"
+  },
+  {
+    "id": 304,
+    "name": {
+      "en": "Oval",
+      "hi": "अंडाकार",
+      "gu": "ઓવલ"
+    },
+    "media": {
+      "image": "icons/shapes/shapes-oval.png"
+    },
+    "meta": {
+      "category": "shapes",
+      "order": 5
+    },
+    "tags": [
+      "shape",
+      "geometry",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "An oval",
+        "hi": "एक अंडाकार",
+        "gu": "એક ઓવલ"
+      }
+    },
+    "slug": "oval"
+  },
+  {
+    "id": 305,
+    "name": {
+      "en": "Semicircle",
+      "hi": "अर्धवृत्त",
+      "gu": "અર્ધવૃત્ત"
+    },
+    "media": {
+      "image": "icons/shapes/shapes-semicircle.png"
+    },
+    "meta": {
+      "category": "shapes",
+      "order": 6
+    },
+    "tags": [
+      "shape",
+      "geometry",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "A semicircle",
+        "hi": "एक अर्धवृत्त",
+        "gu": "એક અર્ધવૃત્ત"
+      }
+    },
+    "slug": "semicircle"
+  },
+  {
+    "id": 306,
+    "name": {
+      "en": "Pentagon",
+      "hi": "पंचभुज",
+      "gu": "પંચભુજ"
+    },
+    "media": {
+      "image": "icons/shapes/shapes-pentagon.png"
+    },
+    "meta": {
+      "category": "shapes",
+      "order": 7
+    },
+    "tags": [
+      "shape",
+      "geometry",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "A pentagon",
+        "hi": "एक पंचभुज",
+        "gu": "એક પંચભુજ"
+      }
+    },
+    "slug": "pentagon"
+  },
+  {
+    "id": 307,
+    "name": {
+      "en": "Hexagon",
+      "hi": "षट्भुज",
+      "gu": "ષટ્કોણ"
+    },
+    "media": {
+      "image": "icons/shapes/shapes-hexagon.png"
+    },
+    "meta": {
+      "category": "shapes",
+      "order": 8
+    },
+    "tags": [
+      "shape",
+      "geometry",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "A hexagon",
+        "hi": "एक षट्भुज",
+        "gu": "એક ષટ્કોણ"
+      }
+    },
+    "slug": "hexagon"
+  },
+  {
+    "id": 308,
+    "name": {
+      "en": "Diamond",
+      "hi": "हीरा",
+      "gu": "ડાયમંડ"
+    },
+    "media": {
+      "image": "icons/shapes/shapes-diamond.png"
+    },
+    "meta": {
+      "category": "shapes",
+      "order": 9
+    },
+    "tags": [
+      "shape",
+      "geometry",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "A diamond shape",
+        "hi": "एक हीरा",
+        "gu": "એક ડાયમંડ"
+      }
+    },
+    "slug": "diamond"
+  },
+  {
+    "id": 309,
+    "name": {
+      "en": "Star",
+      "hi": "सितारा",
+      "gu": "તારો"
+    },
+    "media": {
+      "image": "icons/shapes/shapes-star.png"
+    },
+    "meta": {
+      "category": "shapes",
+      "order": 10
+    },
+    "tags": [
+      "shape",
+      "geometry",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "A star shape",
+        "hi": "एक सितारा",
+        "gu": "એક તાર"
+      }
+    },
+    "slug": "star"
+  }
+]

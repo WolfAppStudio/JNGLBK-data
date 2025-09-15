@@ -1,0 +1,282 @@
+[
+  {
+    "id": 800,
+    "name": {
+      "en": "Teacher",
+      "hi": "शिक्षक",
+      "gu": "શિક્ષક"
+    },
+    "media": {
+      "image": "icons/occupations/occupations-teacher.png"
+    },
+    "meta": {
+      "category": "occupations",
+      "order": 1
+    },
+    "tags": [
+      "occupation",
+      "profession",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Teacher",
+        "hi": "शिक्षक",
+        "gu": "શિક્ષક"
+      }
+    },
+    "slug": "teacher"
+  },
+  {
+    "id": 801,
+    "name": {
+      "en": "Astronaut",
+      "hi": "अंतरिक्ष यात्री",
+      "gu": "અંતરિક્ષ યાત્રી"
+    },
+    "media": {
+      "image": "icons/occupations/occupations-astronaut.png"
+    },
+    "meta": {
+      "category": "occupations",
+      "order": 2
+    },
+    "tags": [
+      "occupation",
+      "profession",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Astronaut",
+        "hi": "अंतरिक्ष यात्री",
+        "gu": "અંતરિક્ષ યાત્રી"
+      }
+    },
+    "slug": "astronaut"
+  },
+  {
+    "id": 802,
+    "name": {
+      "en": "Barber",
+      "hi": "नाई",
+      "gu": "નાઈ"
+    },
+    "media": {
+      "image": "icons/occupations/occupations-barber.png"
+    },
+    "meta": {
+      "category": "occupations",
+      "order": 3
+    },
+    "tags": [
+      "occupation",
+      "profession",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Barber",
+        "hi": "नाई",
+        "gu": "નાઈ"
+      }
+    },
+    "slug": "barber"
+  },
+  {
+    "id": 803,
+    "name": {
+      "en": "Carpenter",
+      "hi": "बढ़ई",
+      "gu": "કાર્પેન્ટર"
+    },
+    "media": {
+      "image": "icons/occupations/occupations-carpenter.png"
+    },
+    "meta": {
+      "category": "occupations",
+      "order": 4
+    },
+    "tags": [
+      "occupation",
+      "profession",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Carpenter",
+        "hi": "बढ़ई",
+        "gu": "કાર્પેન્ટર"
+      }
+    },
+    "slug": "carpenter"
+  },
+  {
+    "id": 804,
+    "name": {
+      "en": "Chef",
+      "hi": "रसोइया",
+      "gu": "શેફ"
+    },
+    "media": {
+      "image": "icons/occupations/occupations-chef.png"
+    },
+    "meta": {
+      "category": "occupations",
+      "order": 5
+    },
+    "tags": [
+      "occupation",
+      "profession",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Chef",
+        "hi": "रसोइया",
+        "gu": "શેફ"
+      }
+    },
+    "slug": "chef"
+  },
+  {
+    "id": 805,
+    "name": {
+      "en": "Dentist",
+      "hi": "दंत चिकित्सक",
+      "gu": "દંતચિકિત્સક"
+    },
+    "media": {
+      "image": "icons/occupations/occupations-dentist.png"
+    },
+    "meta": {
+      "category": "occupations",
+      "order": 6
+    },
+    "tags": [
+      "occupation",
+      "profession",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Dentist",
+        "hi": "दंत चिकित्सक",
+        "gu": "દંતચિકિત્સક"
+      }
+    },
+    "slug": "dentist"
+  },
+  {
+    "id": 806,
+    "name": {
+      "en": "Doctor",
+      "hi": "डॉक्टर",
+      "gu": "ડોક્ટર"
+    },
+    "media": {
+      "image": "icons/occupations/occupations-doctor.png"
+    },
+    "meta": {
+      "category": "occupations",
+      "order": 7
+    },
+    "tags": [
+      "occupation",
+      "profession",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Doctor",
+        "hi": "डॉक्टर",
+        "gu": "ડોક્ટર"
+      }
+    },
+    "slug": "doctor"
+  },
+  {
+    "id": 807,
+    "name": {
+      "en": "Electrician",
+      "hi": "बिजली मिस्त्री",
+      "gu": "વિજળી મિસ્ત્રી"
+    },
+    "media": {
+      "image": "icons/occupations/occupations-electrician.png"
+    },
+    "meta": {
+      "category": "occupations",
+      "order": 8
+    },
+    "tags": [
+      "occupation",
+      "profession",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Electrician",
+        "hi": "बिजली मिस्त्री",
+        "gu": "વિજળી મિસ્ત્રી"
+      }
+    },
+    "slug": "electrician"
+  },
+  {
+    "id": 808,
+    "name": {
+      "en": "Engineer",
+      "hi": "अभियंता",
+      "gu": "ઇજિનિયર"
+    },
+    "media": {
+      "image": "icons/occupations/occupations-engineer.png"
+    },
+    "meta": {
+      "category": "occupations",
+      "order": 9
+    },
+    "tags": [
+      "occupation",
+      "profession",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Engineer",
+        "hi": "अभियंता",
+        "gu": "ઇજિનિયર"
+      }
+    },
+    "slug": "engineer"
+  },
+  {
+    "id": 809,
+    "name": {
+      "en": "Farmer",
+      "hi": "किसान",
+      "gu": "કૃષક"
+    },
+    "media": {
+      "image": "icons/occupations/occupations-farmer.png"
+    },
+    "meta": {
+      "category": "occupations",
+      "order": 10
+    },
+    "tags": [
+      "occupation",
+      "profession",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Farmer",
+        "hi": "किसान",
+        "gu": "કૃષક"
+      }
+    },
+    "slug": "farmer"
+  }
+]

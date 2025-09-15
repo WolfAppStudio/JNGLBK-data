@@ -1,0 +1,310 @@
+[
+  {
+    "id": 200,
+    "name": {
+      "en": "Red",
+      "hi": "लाल",
+      "gu": "લાલ"
+    },
+    "media": {
+      "image": "icons/categories/colors.png"
+    },
+    "meta": {
+      "category": "colors",
+      "order": 1
+    },
+    "tags": [
+      "color",
+      "learning",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Red color",
+        "hi": "लाल रंग",
+        "gu": "લાલ રંગ"
+      }
+    },
+    "slug": "red"
+  },
+  {
+    "id": 201,
+    "name": {
+      "en": "Blue",
+      "hi": "नीला",
+      "gu": "વાદળી"
+    },
+    "media": {
+      "image": "icons/categories/colors.png"
+    },
+    "meta": {
+      "category": "colors",
+      "order": 2
+    },
+    "tags": [
+      "color",
+      "learning",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Blue color",
+        "hi": "नीला रंग",
+        "gu": "વાદળી રંગ"
+      }
+    },
+    "slug": "blue"
+  },
+  {
+    "id": 202,
+    "name": {
+      "en": "Yellow",
+      "hi": "पीला",
+      "gu": "પીળો"
+    },
+    "media": {
+      "image": "icons/categories/colors.png"
+    },
+    "meta": {
+      "category": "colors",
+      "order": 3
+    },
+    "tags": [
+      "color",
+      "learning",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Yellow color",
+        "hi": "पीला रंग",
+        "gu": "પીળો રંગ"
+      }
+    },
+    "slug": "yellow"
+  },
+  {
+    "id": 203,
+    "name": {
+      "en": "Green",
+      "hi": "हरा",
+      "gu": "લીલું"
+    },
+    "media": {
+      "image": "icons/categories/colors.png"
+    },
+    "meta": {
+      "category": "colors",
+      "order": 4
+    },
+    "tags": [
+      "color",
+      "learning",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Green color",
+        "hi": "हरा रंग",
+        "gu": "લીલું રંગ"
+      }
+    },
+    "slug": "green"
+  },
+  {
+    "id": 204,
+    "name": {
+      "en": "Orange",
+      "hi": "संतरी",
+      "gu": "નારંગી"
+    },
+    "media": {
+      "image": "icons/categories/colors.png"
+    },
+    "meta": {
+      "category": "colors",
+      "order": 5
+    },
+    "tags": [
+      "color",
+      "learning",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Orange color",
+        "hi": "संतरी रंग",
+        "gu": "નારંગી રંગ"
+      }
+    },
+    "slug": "orange"
+  },
+  {
+    "id": 205,
+    "name": {
+      "en": "Purple",
+      "hi": "बैंगनी",
+      "gu": "જાંબલી"
+    },
+    "media": {
+      "image": "icons/categories/colors.png"
+    },
+    "meta": {
+      "category": "colors",
+      "order": 6
+    },
+    "tags": [
+      "color",
+      "learning",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Purple color",
+        "hi": "बैंगनी रंग",
+        "gu": "જાંબલી રંગ"
+      }
+    },
+    "slug": "purple"
+  },
+  {
+    "id": 206,
+    "name": {
+      "en": "Pink",
+      "hi": "गुलाबी",
+      "gu": "ગુલાબી"
+    },
+    "media": {
+      "image": "icons/categories/colors.png"
+    },
+    "meta": {
+      "category": "colors",
+      "order": 7
+    },
+    "tags": [
+      "color",
+      "learning",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Pink color",
+        "hi": "गुलाबी रंग",
+        "gu": "ગુલાબી રંગ"
+      }
+    },
+    "slug": "pink"
+  },
+  {
+    "id": 207,
+    "name": {
+      "en": "Brown",
+      "hi": "भूरा",
+      "gu": "ભુરો"
+    },
+    "media": {
+      "image": "icons/categories/colors.png"
+    },
+    "meta": {
+      "category": "colors",
+      "order": 8
+    },
+    "tags": [
+      "color",
+      "learning",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Brown color",
+        "hi": "भूरा रंग",
+        "gu": "ભુરો રંગ"
+      }
+    },
+    "slug": "brown"
+  },
+  {
+    "id": 208,
+    "name": {
+      "en": "Black",
+      "hi": "काला",
+      "gu": "કાળો"
+    },
+    "media": {
+      "image": "icons/categories/colors.png"
+    },
+    "meta": {
+      "category": "colors",
+      "order": 9
+    },
+    "tags": [
+      "color",
+      "learning",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Black color",
+        "hi": "काला रंग",
+        "gu": "કાળો રંગ"
+      }
+    },
+    "slug": "black"
+  },
+  {
+    "id": 209,
+    "name": {
+      "en": "White",
+      "hi": "सफेद",
+      "gu": "સફેદ"
+    },
+    "media": {
+      "image": "icons/categories/colors.png"
+    },
+    "meta": {
+      "category": "colors",
+      "order": 10
+    },
+    "tags": [
+      "color",
+      "learning",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "White color",
+        "hi": "सफेद रंग",
+        "gu": "સફેદ રંગ"
+      }
+    },
+    "slug": "white"
+  },
+  {
+    "id": 210,
+    "name": {
+      "en": "Gray",
+      "hi": "धूसर",
+      "gu": "ઢૂસરો"
+    },
+    "media": {
+      "image": "icons/categories/colors.png"
+    },
+    "meta": {
+      "category": "colors",
+      "order": 11
+    },
+    "tags": [
+      "color",
+      "learning",
+      "kids"
+    ],
+    "accessibility": {
+      "altText": {
+        "en": "Gray color",
+        "hi": "धूसर रंग",
+        "gu": "ઢૂસરો રંગ"
+      }
+    },
+    "slug": "gray"
+  }
+]
